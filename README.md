@@ -22,6 +22,6 @@ once compiled, the parser will take a text file as an input.
 
 ``` ./parser demoFunc.txt ```
 
-for exmaple. Currently the only supported aspects of C code are those included as demo files, such as Return or Function calls. Things such as break statements - while parsed - do not execute any code.
+for example. Currently the only supported aspects of C code are those included as demo files, such as Return or Function calls. Things such as break statements - while parsed - do not execute any code.
 
 Lastly, there are a lot of printed messages. Looking for anything meaningfull in there is nigh-hopeless unless you know what to look for in particular.
