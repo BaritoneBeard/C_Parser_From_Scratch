@@ -1,5 +1,4 @@
-# Parser
-An upload of a C parser.
+# C Parser
 
 <h2> Compile on Commandline </h2>
 
