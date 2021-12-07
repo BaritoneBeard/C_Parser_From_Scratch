@@ -1,0 +1,11 @@
+int apple;
+int func(int aa, int bb)
+{
+	apple=aa+bb;
+}
+int main()
+{
+	int xray = 1;
+	func(9-2,xray);
+	
+}

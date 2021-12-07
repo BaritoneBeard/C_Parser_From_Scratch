@@ -1,0 +1,18 @@
+int apple=0;
+
+int func(int xray)
+{
+	if(xray < 1)
+	{
+		 return apple;
+	}
+	else
+	{
+		apple += xray;
+		func(xray -1);
+	}
+}
+int main()
+{
+	apple = func(5);
+}
